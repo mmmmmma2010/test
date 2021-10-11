@@ -1,0 +1,22 @@
+
+Mohamed Ali Hassan
+
+mkdir test-repo
+cd test-repo
+vim test-file
+git add .
+git commit -m "mesage"
+create test-repo on github and bitbucket
+on github:
+url ssh
+git remote add origin urlssh
+git branch -M main
+git push origin main
+on bitbucket:
+url 
+git remote add origin url
+git branch -M main
+git push origin main
+
+send invitation to fatma10kaled10@gmail.com
+
